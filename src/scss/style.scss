@@ -80,13 +80,13 @@ position: relative;
 .hamburger.active .bar:nth-child(1){
     // transform: translateY(8px) rotate(45deg);
     transform: rotate(45deg);
-    top: 5px;
+    top: 4.3px;
     position: relative;
 }
 .hamburger.active .bar:nth-child(3){
     // transform: translateY(-8px) rotate(-45deg);
     transform: rotate(-45deg);
-   bottom: 6.5px;
+   bottom: 7.5px;
     position: relative;
 }
 .nav__menu{
